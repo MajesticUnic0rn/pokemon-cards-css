@@ -77,7 +77,7 @@
 
 <section class="search-area">
 
-  <input type="search" name="search" id="search" bind:value={query} placeholder="eg: Morpeko or Marnie" />
+  <input type="search" name="search" id="search" bind:value={query} placeholder="eg: Dark Magician" />
 
   <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.25" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
@@ -119,13 +119,13 @@
 
   <CardList>
     <Card 
-      id="basep-16"
-      name="Computer Error"
+      id=""
+      name="Why Tho"
       set="basep"
-      number="16"
-      img="https://images.pokemontcg.io/basep/16_hires.png"
-      supertype="Trainer"
-      subtypes="Rocket's Secret Machine"
+      number=""
+      img="https://i.pinimg.com/236x/19/f1/03/19f10331ba104183b0a3b43f5ec8822c.jpg"
+      supertype=""
+      subtypes=""
       rarity="Promo"
       isReverse={false}
     />

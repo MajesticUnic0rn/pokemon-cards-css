@@ -17,7 +17,8 @@
 
   // image props
   export let img = "";
-  export let back = "https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg";
+  export let back = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c938f85-f834-4bb3-b3b2-97d295769464/dal6wsb-fc4aaba4-d6ff-4029-a83f-9b518abd511d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjOTM4Zjg1LWY4MzQtNGJiMy1iM2IyLTk3ZDI5NTc2OTQ2NFwvZGFsNndzYi1mYzRhYWJhNC1kNmZmLTQwMjktYTgzZi05YjUxOGFiZDUxMWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WiwECsT9D_raZ86dZUb9MVdLyoRW4Q1VQOzGRSiA8Cw";
+  // export let back = "https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg";
   export let foil = "";
   export let mask = "";
 
@@ -38,7 +39,7 @@
 
   let back_img = back;
   let front_img = "";
-  let img_base = img.startsWith("http") ? "" : "https://images.pokemontcg.io/";
+  let img_base = img.startsWith("http") ? "" : "";
 
 
   let thisCard;

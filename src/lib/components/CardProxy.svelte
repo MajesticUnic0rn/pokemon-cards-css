@@ -13,7 +13,6 @@
   export let supertype = undefined;
   export let rarity = undefined;
   export let isReverse = false;
-
   // image props
   export let img = undefined;
   export let back = undefined;
@@ -221,12 +220,13 @@
   }
 
   function maskImage () {
+    return '';
     return foilMaskImage( mask, "masks" );
   }
 
   const proxy = {
     
-    img: cardImage(),
+    img: img,
     back,
     foil: foilImage(),
     mask: maskImage(),
