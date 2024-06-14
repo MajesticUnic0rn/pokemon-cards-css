@@ -24,7 +24,7 @@
 			.then((cards) => {
 				window.cards = cards;
 				showcase = cards[0];
-				basics = cards.slice(1, 4);
+				basics = cards.slice(1, 20);
 				reverse = [...cards.slice(4, 7), ...cards.slice(70,76)];
 				holos = cards.slice(7, 13);
 				cosmos = cards.slice(13, 16);

@@ -7,7 +7,7 @@
     "subtypes": ["Normal"],
     "types": ["Dragon"],
     "number": "001",
-    "rarity": "Ultra Rare",
+    "rarity": "rare holo v",
     "card_img": "https://images.ygoprodeck.com/images/cards/89631139.jpg"
   },
   {
@@ -53,5 +53,61 @@
     "number": "005",
     "rarity": "Super Rare",
     "card_img": "https://images.ygoprodeck.com/images/cards/53129443.jpg"
+  },
+  {
+    "id": "25119460",
+    "set": "LOB",
+    "name": "Gaia The Fierce Knight",
+    "supertype": "Monster",
+    "subtypes": ["Normal"],
+    "types": ["Warrior"],
+    "number": "006",
+    "rarity": "Rare",
+    "card_img": "https://images.ygoprodeck.com/images/cards/6368038.jpg"
+  },
+  {
+    "id": "39294655",
+    "set": "LOB",
+    "name": "Curse of Dragon",
+    "supertype": "Monster",
+    "subtypes": ["Normal"],
+    "types": ["Dragon"],
+    "number": "007",
+    "rarity": "Rare",
+    "card_img": "https://images.ygoprodeck.com/images/cards/28279543.jpg"
+  },
+  {
+    "id": "03492538",
+    "set": "LOB",
+    "name": "Celtic Guardian",
+    "supertype": "Monster",
+    "subtypes": ["Normal"],
+    "types": ["Warrior"],
+    "number": "008",
+    "rarity": "Rare",
+    "card_img": "https://images.ygoprodeck.com/images/cards/91152256.jpg"
+  },
+  {
+    "id": "46918794",
+    "set": "LOB",
+    "name": "Monster Reborn",
+    "supertype": "Spell",
+    "subtypes": ["Normal"],
+    "types": [],
+    "number": "009",
+    "rarity": "Ultra Rare",
+    "card_img": "https://images.ygoprodeck.com/images/cards/83764719.jpg"
+  },
+  {
+    "id": "55569674",
+    "set": "LOB",
+    "name": "Mirror Force",
+    "supertype": "Trap",
+    "subtypes": ["Normal"],
+    "types": [],
+    "number": "010",
+    "rarity": "Ultra Rare",
+    "card_img": "https://images.ygoprodeck.com/images/cards/44095762.jpg"
   }
+
 ]
